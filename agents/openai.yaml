@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ppt Gen"
+  short_description: "可从任意阶段生成或续做报告、图片PPT、可编辑PPT、修订PPT与讲稿"
+  default_prompt: "使用 $ppt-gen 从我的主题或现有材料开始，按我指定的阶段和交付物生成、续做或修改报告、PPT 与讲稿；开始前帮我补齐关键要求。"
